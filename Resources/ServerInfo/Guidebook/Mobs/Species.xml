@@ -14,7 +14,6 @@
   <Box>
   <GuideEntityEmbed Entity="MobSlimePerson" Caption="Слайм-персона"/>
   <GuideEntityEmbed Entity="MobVox" Caption="Вокс"/>
-  <GuideEntityEmbed Entity="MobIPC" Caption="ІПШ"/>
   <GuideEntityEmbed Entity="MobTajara" Caption="Таяран"/>
   <GuideEntityEmbed Entity="MobAvali" Caption="Авалі"/>
   </Box>

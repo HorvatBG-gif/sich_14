@@ -12,7 +12,6 @@
   - SlimePerson
   - Vox
   - Vulpkanin
-  - IPC
   - Tajara
   - Avali
 
@@ -70,4 +69,3 @@
   id: Tajara
   name: species-name-tajara
   text: "/ServerInfo/Guidebook/Mobs/Tajara.xml"
-  
